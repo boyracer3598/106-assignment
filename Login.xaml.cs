@@ -26,7 +26,8 @@ namespace test_2
             InitializeComponent();
         }
 
-        
+        public static string currentUser;
+
         private void GoAccount(object sender, RoutedEventArgs e)
         {
             MainWindow mainwindow = new MainWindow();
@@ -113,7 +114,7 @@ namespace test_2
             {
                 string appCurrentFile = System.AppDomain.CurrentDomain.BaseDirectory;
                 Trace.WriteLine(appCurrentFile);
-                string newPath = System.IO.Path.GetFullPath(System.IO.Path.Combine(appCurrentFile, @"..\..\..\"));
+                string newPath = System.IO.Path.GetFullPath(System.IO.Path.Combine(appCurrentFile, @""));
                 string filename = newPath += "data\\Accounts.csv";
                 Trace.WriteLine(filename);
                 MainWindow.CleanFile(filename);
@@ -133,7 +134,9 @@ namespace test_2
 
                         if (Row.Item2[3] == User && Row.Item2[2] == Pass)
                         {
+                            currentUser = Row.Item1 + "\n" + Row.Item2[1];
                             noUser = false; break;
+                            
                         }
                         else
                         {
@@ -144,10 +147,10 @@ namespace test_2
                     if (noUser == false)
                     {
                         MessageBox.Show("login success");
-                        //System.Threading.Thread.Sleep(50);
-                        //ticketsubmissionwindow ticketsubmissionwindow = new ticketsubmissionwindow();
-                        //ticketsubmissionwindow.Show();
-                        //Application.Current.Windows.OfType<MainWindow>().SingleOrDefault()?.Hide();
+                        System.Threading.Thread.Sleep(50);
+                        TicketWindow ticketsubmissionwindow = new TicketWindow();
+                        ticketsubmissionwindow.Show();
+                        Application.Current.Windows.OfType<Login>().SingleOrDefault()?.Close();
 
                     }
                     else
@@ -181,6 +184,8 @@ namespace test_2
 
         }
     }
+
+    
 
     public class CsvReaderL
     {

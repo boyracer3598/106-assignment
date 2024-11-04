@@ -215,7 +215,7 @@ namespace test_2
 
                 var csvInfo = FName + ',' + LName + ',' + PassW + ',' + EmailAd + '\n';
                 string appCurrentFile = System.AppDomain.CurrentDomain.BaseDirectory;
-                string newPath = System.IO.Path.GetFullPath(System.IO.Path.Combine(appCurrentFile, @"..\..\..\"));
+                string newPath = System.IO.Path.GetFullPath(System.IO.Path.Combine(appCurrentFile, @""));
                 string filename = newPath += "data\\Accounts.csv";
 
                 CleanFile(filename);
@@ -247,7 +247,7 @@ namespace test_2
         }
     }
 
-    public class CsvReader
+    public static class CsvReader
     {
         public static List<(string, List<string>)> ReadCsv(string filename)
         {

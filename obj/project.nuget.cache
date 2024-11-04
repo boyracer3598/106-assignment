@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fj8SIV89u8gnT0m8cwRnfslSOSyi/LxiA5kRfmmBB0ghjC4iTZpj2DZ34xQKaO5g4GwGcip8NvzU98Z76mGpqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\270439674\\OneDrive - UP Education\\Documents\\test for cs106\\test for cs106\\test for cs106.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\270439674\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

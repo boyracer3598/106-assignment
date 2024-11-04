@@ -1,0 +1,38 @@
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\bin\Debug\net6.0-windows\test for cs106.exe
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\bin\Debug\net6.0-windows\test for cs106.deps.json
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\bin\Debug\net6.0-windows\test for cs106.runtimeconfig.json
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\bin\Debug\net6.0-windows\test for cs106.dll
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\bin\Debug\net6.0-windows\test for cs106.pdb
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106.csproj.AssemblyReference.cache
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106_MarkupCompile.cache
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106_MarkupCompile.lref
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106.g.resources
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106.AssemblyInfoInputs.cache
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106.AssemblyInfo.cs
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106.csproj.CoreCompileInputs.cache
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106.dll
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\refint\test for cs106.dll
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106.pdb
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106.genruntimeconfig.cache
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\ref\test for cs106.dll
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106.csproj.CopyComplete
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\Login.baml
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\TicketWindow.g.cs
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Debug\net6.0-windows\TicketWindow.baml
+C:\Users\270439674\OneDrive - UP Education\Documents\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106.csproj.AssemblyReference.cache
+C:\Users\270439674\OneDrive - UP Education\Documents\test for cs106\test for cs106\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\270439674\OneDrive - UP Education\Documents\test for cs106\test for cs106\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\270439674\OneDrive - UP Education\Documents\test for cs106\test for cs106\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\270439674\OneDrive - UP Education\Documents\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106_MarkupCompile.cache
+C:\Users\270439674\OneDrive - UP Education\Documents\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106_MarkupCompile.lref
+C:\Users\270439674\OneDrive - UP Education\Documents\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106.dll
+C:\Users\270439674\OneDrive - UP Education\Documents\test for cs106\test for cs106\obj\Debug\net6.0-windows\refint\test for cs106.dll
+C:\Users\270439674\OneDrive - UP Education\Documents\test for cs106\test for cs106\obj\Debug\net6.0-windows\test for cs106.pdb
+C:\Users\270439674\OneDrive - UP Education\Documents\test for cs106\test for cs106\obj\Debug\net6.0-windows\AdminWindow.g.cs
+C:\Users\270439674\OneDrive - UP Education\Documents\test for cs106\test for cs106\obj\Debug\net6.0-windows\TicketWindow.g.cs
