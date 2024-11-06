@@ -1,0 +1,123 @@
+﻿<Window x:Class="test_2.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:test_2"
+        mc:Ignorable="d"
+        Title="Login" Height="450" Width="700" Background="#2E3A52">
+    <WindowChrome.WindowChrome>
+        <WindowChrome 
+        CaptionHeight="40"
+        ResizeBorderThickness="3" />
+    </WindowChrome.WindowChrome>
+
+
+
+    <Grid Margin="10">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Image Grid.Row="1" Source="\Resource\NewYork.png" Width="279" HorizontalAlignment="Left" Margin="10,10,0,10" />
+
+        <Button x:Name="FinishProgram2" Margin="279,0,0,360" Click="FinishProgram" BorderBrush="Transparent" Background="Transparent" Grid.Column="1" Grid.RowSpan="2" Height="54" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="61">
+            <Image Source="\Resource\Exit.png" Height="71" Width="71" />
+        </Button>
+
+        <StackPanel Grid.Row="1" Width="370" Margin="325,5,-15,5" Grid.ColumnSpan="2">
+            <Label Content="Login" HorizontalAlignment="Left" Margin="0, -5"  Foreground="White" FontFamily="Inter" FontSize="35"/>
+            <StackPanel Height="22"  Orientation="Horizontal">
+                <Label Content="Need an account?" HorizontalAlignment="Left" Margin="0, -5"  Foreground="White" FontFamily="Inter" FontSize="16"/>
+                <TextBlock Width="109" Margin="0, -3" >
+                    <Hyperlink x:Name="GoAccountbutton" Click="GoAccount"  Foreground="white">
+                        <TextBlock Text="Create Account" FontSize="16" Width="120" />
+                    </Hyperlink>
+                </TextBlock>
+
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="1" Margin="0,30,0,0" HorizontalAlignment="Center" Width="370" Height="394" VerticalAlignment="Top">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center"/>
+                <TextBox x:Name="Email" Height="37" VerticalContentAlignment="Center" TextAlignment="Center" FontSize="15" Width="345" Margin="10, 15, 10, 10" GotFocus="EGainedL" LostFocus="ELostL" Text="Email" FontFamily="Inter" Background="#415170" Foreground="#cfcfcf">
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+                <TextBox x:Name="Password" Height="37" VerticalContentAlignment="Center" TextAlignment="Center" FontSize="15" Width="345" Margin="10, 5, 10, 10"  GotFocus="PGainedL" LostFocus="PLostL" Text="Password" FontFamily="Inter" Background="#415170" Foreground="#cfcfcf">
+                    <TextBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </TextBox.Resources>
+                </TextBox>
+
+                <Button x:Name="Loginbutton" Margin="15, 5, 15, 15" Click="StartLoginL" BorderBrush="Transparent" Background="#4A6DB0" Width="340" Height="30">
+                    <Label Content="Login" Foreground="White" FontSize="14" FontFamily="Inter" />
+                </Button>
+                <StackPanel Orientation="Horizontal">
+                    <Rectangle Fill="White" Height="1" Width="118" Margin="15, 0, 5, 0" />
+                    <Label Content="Or login with" Foreground="White" FontSize="10" FontFamily="Inter" Width="81" />
+                    <Rectangle Fill="White" Height="1" Width="118" Margin="15, 0, 5, 0" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0, 10, 0 ,0">
+                    <Button x:Name="Google" Margin="15, 0, 15, 0" Click="StartLoginL" BorderBrush="#415170" Background="Transparent" Width="162.5" Height="30">
+                        <Button.Resources>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="CornerRadius" Value="5"/>
+                            </Style>
+                        </Button.Resources>
+                        <Label Content="Google" Foreground="White" FontSize="14" FontFamily="Inter" />
+                    </Button>
+                    <Button x:Name="Outlook" Click="StartLoginL" BorderBrush="#415170" Background="Transparent" Width="162.5" Height="30">
+                        <Button.Resources>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="CornerRadius" Value="5"/>
+                            </Style>
+                        </Button.Resources>
+                        <Label Content="Outlook" Foreground="White" FontSize="14" FontFamily="Inter" />
+                    </Button>
+                </StackPanel>
+            </StackPanel>
+
+        </StackPanel>
+
+
+    </Grid>
+
+    <Window.Resources>
+
+        <Style TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="{TemplateBinding BorderThickness}"
+                            SnapsToDevicePixels="True">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                          VerticalAlignment="Center"
+                                          SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+
+
+    </Window.Resources>
+
+
+</Window>
+
+    
