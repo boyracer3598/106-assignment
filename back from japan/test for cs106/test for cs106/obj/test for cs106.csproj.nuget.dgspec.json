@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\270136550\\OneDrive - UP Education\\cs106\\test 1\\test for cs106\\test for cs106\\test for cs106.csproj": {}
+    "C:\\Users\\270439674\\OneDrive - UP Education\\Documents\\GitHub\\106-assignment\\back from japan\\test for cs106\\test for cs106\\test for cs106.csproj": {}
   },
   "projects": {
-    "C:\\Users\\270136550\\OneDrive - UP Education\\cs106\\test 1\\test for cs106\\test for cs106\\test for cs106.csproj": {
+    "C:\\Users\\270439674\\OneDrive - UP Education\\Documents\\GitHub\\106-assignment\\back from japan\\test for cs106\\test for cs106\\test for cs106.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\270136550\\OneDrive - UP Education\\cs106\\test 1\\test for cs106\\test for cs106\\test for cs106.csproj",
+        "projectUniqueName": "C:\\Users\\270439674\\OneDrive - UP Education\\Documents\\GitHub\\106-assignment\\back from japan\\test for cs106\\test for cs106\\test for cs106.csproj",
         "projectName": "test for cs106",
-        "projectPath": "C:\\Users\\270136550\\OneDrive - UP Education\\cs106\\test 1\\test for cs106\\test for cs106\\test for cs106.csproj",
-        "packagesPath": "C:\\Users\\270136550\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\270136550\\OneDrive - UP Education\\cs106\\test 1\\test for cs106\\test for cs106\\obj\\",
+        "projectPath": "C:\\Users\\270439674\\OneDrive - UP Education\\Documents\\GitHub\\106-assignment\\back from japan\\test for cs106\\test for cs106\\test for cs106.csproj",
+        "packagesPath": "C:\\Users\\270439674\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\270439674\\OneDrive - UP Education\\Documents\\GitHub\\106-assignment\\back from japan\\test for cs106\\test for cs106\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\270136550\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\270439674\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

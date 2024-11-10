@@ -29,18 +29,10 @@
 
 
         </StackPanel>
-        <StackPanel Orientation="Vertical" Margin="-15,67,293,14" Grid.ColumnSpan="2">
 
-        </StackPanel>
-        
         <Image Source="/Resource/profile.png" Margin="2,2,65,432"/>
         <TextBlock Margin="41,25,3,429" FontSize="6" Foreground="#787878">Account Overview</TextBlock>
         <Rectangle Fill="#2E3A52"   Opacity="0.37" Margin="-4,36,0,428" Grid.ColumnSpan="2" />
-        <TextBlock Margin="24,70,49,384" FontSize="6" Foreground="#787878" RenderTransformOrigin="0.49,2.64"><Run Text="View Users"/><LineBreak/><Run/></TextBlock>
-        <TextBlock Margin="24,91,43,361" FontSize="6" Foreground="#787878" RenderTransformOrigin="0.49,2.64"><Run Text="View Accounts"/><LineBreak/><Run/></TextBlock>
-        <TextBlock Margin="24,112,43,342" FontSize="6" Foreground="#787878" RenderTransformOrigin="0.49,2.64"><Run Text="View Tickets"/><LineBreak/><Run/></TextBlock>
-        <TextBlock Margin="25,133,41,321" FontSize="6" Foreground="#787878" RenderTransformOrigin="0.49,2.64"><Run Text="View Reports"/><LineBreak/><Run/></TextBlock>
-        <TextBlock Margin="25,158,41,296" FontSize="6" Foreground="#787878" RenderTransformOrigin="0.49,2.64"><Run Text="Edit tickets"/><LineBreak/><Run/></TextBlock>
         <TextBlock Margin="6,46,70,408" FontSize="6" Foreground="#787878" RenderTransformOrigin="0.49,2.64" Text="Actions"/>
         <Rectangle Fill="#2E3A52"   Opacity="0.37"   Margin="-6,58,10,406" />
         <Rectangle Fill="#2E3A52"   Opacity="0.37" Margin="-129,52,125,412" Grid.ColumnSpan="2" RenderTransformOrigin="0.5,0.5" >
@@ -53,24 +45,8 @@
                 </TransformGroup>
             </Rectangle.RenderTransform>
         </Rectangle>
-        
-        <Image Source="/Resource/view_users.png" Margin="0,67,89,385"/>
-        <Image Source="/Resource/view_accounts.png" Margin="0,88,89,364"/>
-        <Image Source="/Resource/view_tickets.png" Margin="0,109,89,343"/>
-        <StackPanel Orientation="Vertical" Margin="-15,67,293,14" Grid.ColumnSpan="2">
 
-        </StackPanel>
-        <StackPanel Orientation="Vertical" Margin="-15,67,293,14" Grid.ColumnSpan="2">
 
-        </StackPanel>
-        <Image Source="/Resource/view_reports.png" Margin="3,133,90,321"/>
-        <StackPanel Orientation="Vertical" Margin="-15,67,293,14" Grid.ColumnSpan="2">
-
-        </StackPanel>
-        <StackPanel Orientation="Vertical" Margin="-15,67,293,14" Grid.ColumnSpan="2">
-
-        </StackPanel>
-        <Image Source="/Resource/edit_tickets.png" Margin="4,158,93,297"/>
         <Button x:Name="createOperatorButton" BorderBrush="Transparent" Background="#4A6DB0" Margin="10,222,11,223">
             <Label Content="Create Operator Accounts" Foreground="White" FontSize="6" FontFamily="Inter" Width="80" Height="19" />
             <Button.Resources>
@@ -87,6 +63,37 @@
             </Button.Resources>
             <Label Content="Delete Account" Foreground="White" FontSize="6" FontFamily="Inter" Width="51" Height="19" />
         </Button>
+
+        <Button Width="90" Height="20" HorizontalContentAlignment="Left" BorderBrush="Transparent" Background="Transparent" Margin="6,64,17,381">
+           
+                <Image  Source="/Resource/view_users.png" />
+           
+        </Button>
+        <Button Width="90" Height="20" HorizontalContentAlignment="Left" BorderBrush="Transparent" Background="Transparent" Margin="4,88,19,357">
+
+            <Image Source="/Resource/view_accounts.png" />
+
+        </Button>
+
+        <Button Width="90" Height="20" HorizontalContentAlignment="Left" BorderBrush="Transparent" Background="Transparent" Margin="6,110,17,335">
+
+            <Image  Source="/Resource/view_tickets.png"/>
+
+        </Button>
+
+        <Button Width="90" Height="20" HorizontalContentAlignment="Left" BorderBrush="Transparent" Background="Transparent" Margin="6,135,17,310">
+
+            <Image  Source="/Resource/view_reports.png" />
+
+        </Button>
+
+        <Button Width="90" Height="20" HorizontalContentAlignment="Left" BorderBrush="Transparent" Background="Transparent" Margin="4,155,19,290">
+
+            <Image  Source="/Resource/edit_tickets.png" />
+
+        </Button>
+
+        
 
 
 
