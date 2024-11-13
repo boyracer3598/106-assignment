@@ -65,9 +65,9 @@
         </Button>
 
         <Button Width="90" Height="20" HorizontalContentAlignment="Left" BorderBrush="Transparent" Background="Transparent" Margin="6,64,17,381">
-           
-                <Image  Source="/Resource/view_users.png" />
-           
+
+            <Image  Source="/Resource/view_users.png" />
+
         </Button>
         <Button Width="90" Height="20" HorizontalContentAlignment="Left" BorderBrush="Transparent" Background="Transparent" Margin="4,88,19,357">
 
@@ -92,8 +92,74 @@
             <Image  Source="/Resource/edit_tickets.png" />
 
         </Button>
+        <Button x:Name="user" BorderBrush="Transparent" Background="#EFF0F2" Margin="89,47,116,389" Grid.Column="1">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="2 "/>
+                </Style>
+            </Button.Resources>
+            <Label Content="UserName" Foreground="Black" FontSize="10" FontFamily="Inter" Width="80" Height="19" />
 
-        
+        </Button>
+        <Label Content="Operator" Foreground="#767676" FontSize="6" FontFamily="Inter" Grid.Column="1" Margin="210,54,122,393" />
+        <Image Source="/Resource/profile.png" Margin="90,51,246,394" Grid.Column="1" RenderTransformOrigin="0.491,0.363"/>
+        <Button x:Name="user_Copy" BorderBrush="Transparent" Background="#EFF0F2" Margin="89,80,116,356" Grid.Column="1">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="2 "/>
+                </Style>
+            </Button.Resources>
+            <Label Content="UserName" Foreground="Black" FontSize="10" FontFamily="Inter" Width="80" Height="19" />
+
+        </Button>
+        <Label Content="Operator" Foreground="#767676" FontSize="6" FontFamily="Inter" Grid.Column="1" Margin="210,87,122,360" />
+        <Image Source="/Resource/profile.png" Margin="90,84,246,361" Grid.Column="1" RenderTransformOrigin="0.491,0.363"/>
+        <Button x:Name="user_Copy1" BorderBrush="Transparent" Background="#EFF0F2" Margin="89,113,116,323" Grid.Column="1">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="2 "/>
+                </Style>
+            </Button.Resources>
+            <Label Content="UserName" Foreground="Black" FontSize="10" FontFamily="Inter" Width="80" Height="19" />
+
+        </Button>
+        <Label Content="Operator" Foreground="#767676" FontSize="6" FontFamily="Inter" Grid.Column="1" Margin="210,120,122,327" />
+        <Image Source="/Resource/profile.png" Margin="90,117,246,328" Grid.Column="1" RenderTransformOrigin="0.491,0.363"/>
+        <Button x:Name="user_Copy2" BorderBrush="Transparent" Background="#EFF0F2" Margin="89,161,116,275" Grid.Column="1">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="2 "/>
+                </Style>
+            </Button.Resources>
+            <Label Content="UserName" Foreground="Black" FontSize="10" FontFamily="Inter" Width="80" Height="19" />
+
+        </Button>
+        <Label Content="User" Foreground="#767676" FontSize="6" FontFamily="Inter" Grid.Column="1" Margin="217,170,129,277" />
+        <Image Grid.Column="1" Margin="98,166,252,280" Source="/Resource/Profile(green).png" Stretch="Fill"/>
+        <Button x:Name="user_Copy3" BorderBrush="Transparent" Background="#EFF0F2" Margin="89,195,116,240" Grid.Column="1">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="2 "/>
+                </Style>
+            </Button.Resources>
+            <Label Content="UserName" Foreground="Black" FontSize="10" FontFamily="Inter" Width="80" Height="19" />
+
+        </Button>
+        <Label Content="User" Foreground="#767676" FontSize="6" FontFamily="Inter" Grid.Column="1" Margin="217,205,129,242" />
+        <Image Grid.Column="1" Margin="98,201,252,245" Source="/Resource/Profile(green).png" Stretch="Fill"/>
+        <Button x:Name="user_Copy4" BorderBrush="Transparent" Background="#EFF0F2" Margin="89,232,116,204" Grid.Column="1">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="2 "/>
+                </Style>
+            </Button.Resources>
+            <Label Content="UserName" Foreground="Black" FontSize="10" FontFamily="Inter" Width="80" Height="19" />
+
+        </Button>
+        <Label Content="User" Foreground="#767676" FontSize="6" FontFamily="Inter" Grid.Column="1" Margin="217,241,129,206" />
+        <Image Grid.Column="1" Margin="98,237,252,209" Source="/Resource/Profile(green).png" Stretch="Fill"/>
+
+
 
 
 
