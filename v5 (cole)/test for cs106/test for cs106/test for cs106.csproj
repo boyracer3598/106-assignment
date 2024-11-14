@@ -1,0 +1,64 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>test_for_cs106</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="data\Accounts.csv" />
+    <None Remove="Resource\arrow.png" />
+    <None Remove="Resource\Dashboard.png" />
+    <None Remove="Resource\exit.png" />
+    <None Remove="Resource\feedback.png" />
+    <None Remove="Resource\First_Name.png" />
+    <None Remove="Resource\high.png" />
+    <None Remove="Resource\HighD.png" />
+    <None Remove="Resource\icon _tag.png" />
+    <None Remove="Resource\Inbox.png" />
+    <None Remove="Resource\login.png" />
+    <None Remove="Resource\logo.png" />
+    <None Remove="Resource\Low.png" />
+    <None Remove="Resource\LowD.png" />
+    <None Remove="Resource\MedD.png" />
+    <None Remove="Resource\Medium.png" />
+    <None Remove="Resource\NewYork.png" />
+    <None Remove="Resource\notifications.png" />
+    <None Remove="Resource\profile.png" />
+    <None Remove="Resource\submitT.png" />
+    <None Remove="Resource\Ticket.png" />
+    <None Remove="Resource\topL.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="33.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="data\Accounts.csv" />
+    <Resource Include="Resource\Dashboard.png" />
+    <Resource Include="Resource\exit.png" />
+    <Resource Include="Resource\feedback.png" />
+    <Resource Include="Resource\First_Name.png" />
+    <Resource Include="Resource\high.png" />
+    <Resource Include="Resource\HighD.png" />
+    <Resource Include="Resource\icon _tag.png" />
+    <Resource Include="Resource\Inbox.png" />
+    <Resource Include="Resource\login.png" />
+    <Resource Include="Resource\logo.png" />
+    <Resource Include="Resource\Low.png" />
+    <Resource Include="Resource\LowD.png" />
+    <Resource Include="Resource\MedD.png" />
+    <Resource Include="Resource\Medium.png" />
+    <Resource Include="Resource\NewYork.png" />
+    <Resource Include="Resource\notifications.png" />
+    <Resource Include="Resource\profile.png" />
+    <Resource Include="Resource\submitT.png" />
+    <Resource Include="Resource\Ticket.png" />
+    <Resource Include="Resource\topL.png" />
+  </ItemGroup>
+
+</Project>
