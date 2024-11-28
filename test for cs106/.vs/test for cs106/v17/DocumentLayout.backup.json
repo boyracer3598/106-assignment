@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\github clones\\106-assignment\\test for cs106\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|e:\\github clones\\106-assignment\\test for cs106\\test for cs106\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|solutionrelative:test for cs106\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|e:\\github clones\\106-assignment\\test for cs106\\test for cs106\\operatorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|solutionrelative:test for cs106\\operatorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|e:\\github clones\\106-assignment\\test for cs106\\test for cs106\\operatorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|solutionrelative:test for cs106\\operatorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|e:\\github clones\\106-assignment\\test for cs106\\test for cs106\\ticketwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|solutionrelative:test for cs106\\ticketwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|e:\\github clones\\106-assignment\\test for cs106\\test for cs106\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|solutionrelative:test for cs106\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|e:\\github clones\\106-assignment\\test for cs106\\test for cs106\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|solutionrelative:test for cs106\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|e:\\github clones\\106-assignment\\test for cs106\\test for cs106\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|solutionrelative:test for cs106\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|e:\\github clones\\106-assignment\\test for cs106\\test for cs106\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|solutionrelative:test for cs106\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|e:\\github clones\\106-assignment\\test for cs106\\test for cs106\\assingningwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|solutionrelative:test for cs106\\assingningwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|e:\\github clones\\106-assignment\\test for cs106\\test for cs106\\feedbackwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|solutionrelative:test for cs106\\feedbackwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|e:\\github clones\\106-assignment\\test for cs106\\test for cs106\\feedbackwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|solutionrelative:test for cs106\\feedbackwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|e:\\github clones\\106-assignment\\test for cs106\\test for cs106\\ticketwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|solutionrelative:test for cs106\\ticketwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|e:\\github clones\\106-assignment\\test for cs106\\test for cs106\\assingningwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0081E894-E2C4-4653-9C13-07BDCDECBA14}|test for cs106\\test for cs106.csproj|solutionrelative:test for cs106\\assingningwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperatorWindow.xaml.cs",
+              "DocumentMoniker": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\OperatorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "test for cs106\\OperatorWindow.xaml.cs",
+              "ToolTip": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\OperatorWindow.xaml.cs",
+              "RelativeToolTip": "test for cs106\\OperatorWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:50:24.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TicketWindow.xaml.cs",
+              "DocumentMoniker": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\TicketWindow.xaml.cs",
+              "RelativeDocumentMoniker": "test for cs106\\TicketWindow.xaml.cs",
+              "ToolTip": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\TicketWindow.xaml.cs",
+              "RelativeToolTip": "test for cs106\\TicketWindow.xaml.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAiwHIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:50:24.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "test for cs106\\AdminWindow.xaml.cs",
+              "ToolTip": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "test for cs106\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:50:24.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "feedbackWindow.xaml.cs",
+              "DocumentMoniker": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\feedbackWindow.xaml.cs",
+              "RelativeDocumentMoniker": "test for cs106\\feedbackWindow.xaml.cs",
+              "ToolTip": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\feedbackWindow.xaml.cs",
+              "RelativeToolTip": "test for cs106\\feedbackWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:50:24.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketWindow.xaml",
+              "DocumentMoniker": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\TicketWindow.xaml",
+              "RelativeDocumentMoniker": "test for cs106\\TicketWindow.xaml",
+              "ToolTip": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\TicketWindow.xaml",
+              "RelativeToolTip": "test for cs106\\TicketWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T02:50:24.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "feedbackWindow.xaml",
+              "DocumentMoniker": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\feedbackWindow.xaml",
+              "RelativeDocumentMoniker": "test for cs106\\feedbackWindow.xaml",
+              "ToolTip": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\feedbackWindow.xaml",
+              "RelativeToolTip": "test for cs106\\feedbackWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T02:50:24.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "test for cs106\\AdminWindow.xaml",
+              "ToolTip": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\AdminWindow.xaml",
+              "RelativeToolTip": "test for cs106\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T02:50:24.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssingningWindow.xaml",
+              "DocumentMoniker": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\AssingningWindow.xaml",
+              "RelativeDocumentMoniker": "test for cs106\\AssingningWindow.xaml",
+              "ToolTip": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\AssingningWindow.xaml",
+              "RelativeToolTip": "test for cs106\\AssingningWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T02:50:24.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "test for cs106\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\MainWindow.xaml.cs",
+              "RelativeToolTip": "test for cs106\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAqwMAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:50:24.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "test for cs106\\Login.xaml.cs",
+              "ToolTip": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\Login.xaml.cs",
+              "RelativeToolTip": "test for cs106\\Login.xaml.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAmwJYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:50:24.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssingningWindow.xaml.cs",
+              "DocumentMoniker": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\AssingningWindow.xaml.cs",
+              "RelativeDocumentMoniker": "test for cs106\\AssingningWindow.xaml.cs",
+              "ToolTip": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\AssingningWindow.xaml.cs",
+              "RelativeToolTip": "test for cs106\\AssingningWindow.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:50:24.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\Login.xaml",
+              "RelativeDocumentMoniker": "test for cs106\\Login.xaml",
+              "ToolTip": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\Login.xaml",
+              "RelativeToolTip": "test for cs106\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T02:50:24.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperatorWindow.xaml",
+              "DocumentMoniker": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\OperatorWindow.xaml",
+              "RelativeDocumentMoniker": "test for cs106\\OperatorWindow.xaml",
+              "ToolTip": "E:\\github clones\\106-assignment\\test for cs106\\test for cs106\\OperatorWindow.xaml",
+              "RelativeToolTip": "test for cs106\\OperatorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T02:50:24.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

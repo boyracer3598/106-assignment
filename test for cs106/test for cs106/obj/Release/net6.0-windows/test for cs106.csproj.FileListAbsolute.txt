@@ -1,0 +1,61 @@
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\bin\Release\net6.0-windows\test for cs106.exe
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\bin\Release\net6.0-windows\test for cs106.deps.json
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\bin\Release\net6.0-windows\test for cs106.runtimeconfig.json
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\bin\Release\net6.0-windows\test for cs106.dll
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\bin\Release\net6.0-windows\test for cs106.pdb
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\bin\Release\net6.0-windows\CsvHelper.dll
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.csproj.AssemblyReference.cache
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\Login.g.cs
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\App.g.cs
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106_MarkupCompile.cache
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106_MarkupCompile.lref
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\Login.baml
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.g.resources
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.AssemblyInfoInputs.cache
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.AssemblyInfo.cs
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.csproj.CoreCompileInputs.cache
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.csproj.CopyComplete
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.dll
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\refint\test for cs106.dll
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.pdb
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.genruntimeconfig.cache
+C:\Users\270136550\OneDrive - UP Education\cs106\test 1\test for cs106\test for cs106\obj\Release\net6.0-windows\ref\test for cs106.dll
+E:\github clones\106-assignment\test for cs106\test for cs106\bin\Release\net6.0-windows\test for cs106.exe
+E:\github clones\106-assignment\test for cs106\test for cs106\bin\Release\net6.0-windows\test for cs106.deps.json
+E:\github clones\106-assignment\test for cs106\test for cs106\bin\Release\net6.0-windows\test for cs106.runtimeconfig.json
+E:\github clones\106-assignment\test for cs106\test for cs106\bin\Release\net6.0-windows\test for cs106.dll
+E:\github clones\106-assignment\test for cs106\test for cs106\bin\Release\net6.0-windows\test for cs106.pdb
+E:\github clones\106-assignment\test for cs106\test for cs106\bin\Release\net6.0-windows\CsvHelper.dll
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.csproj.AssemblyReference.cache
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\AdminWindow.g.cs
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\AssingningWindow.g.cs
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\feedbackWindow.g.cs
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\Login.g.cs
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\MainWindow.g.cs
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\OperatorWindow.g.cs
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\TicketWindow.g.cs
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\App.g.cs
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106_MarkupCompile.cache
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106_MarkupCompile.lref
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\AdminWindow.baml
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\AssingningWindow.baml
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\feedbackWindow.baml
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\Login.baml
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\MainWindow.baml
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\OperatorWindow.baml
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\TicketWindow.baml
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.g.resources
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.GeneratedMSBuildEditorConfig.editorconfig
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.AssemblyInfoInputs.cache
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.AssemblyInfo.cs
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.csproj.CoreCompileInputs.cache
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.sourcelink.json
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\test for.022817EA.Up2Date
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.dll
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\refint\test for cs106.dll
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.pdb
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\test for cs106.genruntimeconfig.cache
+E:\github clones\106-assignment\test for cs106\test for cs106\obj\Release\net6.0-windows\ref\test for cs106.dll

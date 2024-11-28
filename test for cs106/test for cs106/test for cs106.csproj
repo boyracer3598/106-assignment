@@ -1,0 +1,100 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>test_for_cs106</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="data\Accounts.csv" />
+    <None Remove="data\Tickets.csv" />
+    <None Remove="Resource\Active.png" />
+    <None Remove="Resource\arrow.png" />
+    <None Remove="Resource\Arrow1.png" />
+    <None Remove="Resource\Assign.png" />
+    <None Remove="Resource\Attachments.png" />
+    <None Remove="Resource\Dashboard.png" />
+    <None Remove="Resource\edit_tickets.png" />
+    <None Remove="Resource\exit.png" />
+    <None Remove="Resource\feedback.png" />
+    <None Remove="Resource\First_Name.png" />
+    <None Remove="Resource\high.png" />
+    <None Remove="Resource\HighD.png" />
+    <None Remove="Resource\icon _tag.png" />
+    <None Remove="Resource\iconStar.png" />
+    <None Remove="Resource\Inactive.png" />
+    <None Remove="Resource\Inbox.png" />
+    <None Remove="Resource\Incident.png" />
+    <None Remove="Resource\lists_icon.png" />
+    <None Remove="Resource\login.png" />
+    <None Remove="Resource\logo.png" />
+    <None Remove="Resource\Low.png" />
+    <None Remove="Resource\LowD.png" />
+    <None Remove="Resource\MedD.png" />
+    <None Remove="Resource\Medium.png" />
+    <None Remove="Resource\NewYork.png" />
+    <None Remove="Resource\notifications.png" />
+    <None Remove="Resource\Profile%28green%29.png" />
+    <None Remove="Resource\profile.png" />
+    <None Remove="Resource\Questions.png" />
+    <None Remove="Resource\SubmitF.png" />
+    <None Remove="Resource\submitT.png" />
+    <None Remove="Resource\TechnicalSupport.png" />
+    <None Remove="Resource\Ticket.png" />
+    <None Remove="Resource\topL.png" />
+    <None Remove="Resource\view_accounts.png" />
+    <None Remove="Resource\view_reports.png" />
+    <None Remove="Resource\view_tickets.png" />
+    <None Remove="Resource\view_users.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="33.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="data\Accounts.csv" />
+    <Resource Include="data\Tickets.csv" />
+    <Resource Include="Resource\Active.png" />
+    <Resource Include="Resource\Arrow1.png" />
+    <Resource Include="Resource\Assign.png" />
+    <Resource Include="Resource\Attachments.png" />
+    <Resource Include="Resource\Dashboard.png" />
+    <Resource Include="Resource\edit_tickets.png" />
+    <Resource Include="Resource\exit.png" />
+    <Resource Include="Resource\feedback.png" />
+    <Resource Include="Resource\First_Name.png" />
+    <Resource Include="Resource\high.png" />
+    <Resource Include="Resource\HighD.png" />
+    <Resource Include="Resource\icon _tag.png" />
+    <Resource Include="Resource\iconStar.png" />
+    <Resource Include="Resource\Inactive.png" />
+    <Resource Include="Resource\Inbox.png" />
+    <Resource Include="Resource\Incident.png" />
+    <Resource Include="Resource\lists_icon.png" />
+    <Resource Include="Resource\login.png" />
+    <Resource Include="Resource\logo.png" />
+    <Resource Include="Resource\Low.png" />
+    <Resource Include="Resource\LowD.png" />
+    <Resource Include="Resource\MedD.png" />
+    <Resource Include="Resource\Medium.png" />
+    <Resource Include="Resource\NewYork.png" />
+    <Resource Include="Resource\notifications.png" />
+    <Resource Include="Resource\Profile(green).png" />
+    <Resource Include="Resource\profile.png" />
+    <Resource Include="Resource\Questions.png" />
+    <Resource Include="Resource\SubmitF.png" />
+    <Resource Include="Resource\submitT.png" />
+    <Resource Include="Resource\TechnicalSupport.png" />
+    <Resource Include="Resource\Ticket.png" />
+    <Resource Include="Resource\topL.png" />
+    <Resource Include="Resource\view_accounts.png" />
+    <Resource Include="Resource\view_reports.png" />
+    <Resource Include="Resource\view_tickets.png" />
+    <Resource Include="Resource\view_users.png" />
+  </ItemGroup>
+
+</Project>
